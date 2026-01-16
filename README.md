@@ -41,6 +41,13 @@ The system processes resumes and job descriptions, extracts structured data, com
 * Modular architecture (10+ components)
 * ~1000 lines of well-documented code
 * Designed for maintainability and extensibility
+---
+## Images to Display the System
+
+* Main Page <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8dbf69de-c98a-4451-8f73-15ad549dacbb" />
+* Uploading the Resumes <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9d6cfb4-6c6a-4345-b11f-09044c38b77c" />
+* Ranking the Resumes according to the Job Description <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/214694e1-cf91-44fe-9589-c2f9c65e04fa" />
+
 
 ---
 
